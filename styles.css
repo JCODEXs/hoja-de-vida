@@ -36,7 +36,7 @@ Contenedor {
   padding-top: 0.5rem;
   background-color: azure;
   display: flex;
-  width: 1248px;
+  width: 1148px;
 }
 grade {
   font-size: 32px;
@@ -49,14 +49,14 @@ FD {
   font-size: large;
   color: azure;
   display: block;
-  width: 24%;
+  width: 28%;
   padding-left: 1rem;
   padding-right: 0.3rem;
 }
 
 PP {
   background-color: azure;
-  width: 65%;
+  width: 69%;
   padding-left: 2rem;
   padding-right: 0.3rem;
   text-align: justify;
