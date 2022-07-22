@@ -115,14 +115,14 @@ fecha {
 inst {
   color: rgba(58, 43, 5, 0.936);
   font-weight: 500;
-  font-size: medium;
+  font-size: 0.9rem;
   float: inline-end;
 }
 
 Grado {
   color: rgba(133, 97, 8, 0.936);
   font-weight: 500;
-  font-size: 21px;
+  font-size: 23px;
   float: inline-end;
   padding-bottom: 1rem;
 }
