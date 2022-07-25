@@ -5,7 +5,7 @@ html {
   font-family: "Times New Roman", Times, serif;
 }
 div {
-  padding-bottom: 1.6rem;
+  padding-bottom: 0.5rem;
 }
 
 head {
@@ -18,7 +18,7 @@ body {
 }
 img {
   background-color: beige;
-  border-radius: 50%;
+  border-radius: 45%;
 }
 EXP {
   padding-left: 1rem;
@@ -34,51 +34,53 @@ Iblock {
 
 Contenedor {
   padding-top: 0.5rem;
-  background-color: azure;
+  background-color: rgb(171, 173, 173);
   display: flex;
   width: 1148px;
 }
 grade {
-  font-size: 32px;
-  color: rgba(20, 39, 39, 0.792);
-  padding-left: 2rem;
+  font-size: 26px;
+  color: rgba(18, 50, 50, 0.792);
+  padding-left: 1.5rem;
   padding-top: 0.5rem;
+  text-align: center;
+  align-content: center;
 }
 FD {
   background-color: rgba(18, 82, 177, 0.814);
-  font-size: large;
+  font-size: 1.6rem;
   color: azure;
   display: block;
-  width: 28%;
-  padding-left: 1rem;
+  width: 50%;
+  padding-left: 0.5rem;
   padding-right: 0.3rem;
 }
 
 PP {
   background-color: azure;
-  width: 69%;
+  width: 130%;
   padding-left: 2rem;
   padding-right: 0.3rem;
   text-align: justify;
 }
 Nomb {
   font-size: 51px;
-  color: rgb(38, 82, 82);
-  background-color: rgba(237, 233, 233, 0.438);
+  color: rgb(30, 73, 73);
+  background-color: rgba(255, 255, 255, 0.834);
   padding-left: 3rem;
   padding-right: 4rem;
 }
 h1 {
-  font-size: larger;
+  font-size: 29px;
   background-color: rgba(240, 248, 255, 0.88);
   color: black;
   padding-left: 0.7rem;
 }
 h2 {
-  font-size: 18px;
+  font-size: 23px;
   display: flex;
   padding-left: 0.6rem;
-  padding-top: 0.1rem;
+  padding-top: 0.01rem;
 }
 h2i {
   font-size: medium;
@@ -91,19 +93,22 @@ lugar {
   color: rgba(101, 2, 2, 0.851);
   font-size: large;
   display: inline-flex;
+  font-weight: 800;
 }
 
 cargo {
-  font-size: large;
+  font-size: 25px;
   font-style: italic;
-  font-weight: 600;
+  font-weight: 700;
   padding-left: 1rem;
   padding-bottom: 0.5rem;
   padding-right: 1.5rem;
 }
 
 Funciones {
-  font-size: large;
+  color: rgb(80, 84, 52);
+  font-size: 20px;
+  font-weight: 600;
   padding-left: 0.2rem;
 }
 fecha {
@@ -122,12 +127,14 @@ inst {
 Grado {
   color: rgba(133, 97, 8, 0.936);
   font-weight: 500;
-  font-size: 23px;
+  font-size: 21px;
   float: inline-end;
   padding-bottom: 1rem;
+  text-align: center;
 }
 
 FORM {
+  align-content: center;
   padding-left: 1rem;
   padding-bottom: 0.7rem;
   display: block;
