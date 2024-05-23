@@ -82,6 +82,12 @@ h2 {
   padding-left: 0.6rem;
   padding-top: 0.01rem;
 }
+h3 {
+  font-size: 19px;
+  display: flex;
+  padding-left: 0.4rem;
+  padding-top: 0.01rem;
+}
 h2i {
   font-size: medium;
   display: flex;
